@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": "caw03y9t7",
+      "name": "ClownZ Infinity Eye Coach Jacket - Black",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-js-pt14314.appspot.com/o/images%2Fhinh-anh-nobita-de-thuong_105846633.jpg?alt=media&token=f6d866b3-da01-477c-b57e-416d03f9cafe",
+      "price": "10000",
+      "desc": ""
+    },
+    {
+      "id": "j039dzu17",
+      "name": "ClownZ Infinity Eye Coach Jacket - Black",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-js-pt14314.appspot.com/o/images%2Fhinh-anh-nobita-de-thuong_105846633.jpg?alt=media&token=588b6c32-446b-4bc1-9b08-4679049b7965",
+      "price": "10000",
+      "desc": ""
+    },
+    {
+      "id": "8qoeb3ger",
+      "name": "ClownZ Infinity Eye Coach Jacket - Black",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-js-pt14314.appspot.com/o/images%2Findex.jpg?alt=media&token=a46450fb-d1eb-4dba-a055-7dc440a700d0",
+      "price": "112121",
+      "desc": ""
+    },
+    {
+      "id": "czwf7rrcg",
+      "name": "saSAs",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-js-pt14314.appspot.com/o/images%2F107728681_588855572060225_1671141119115458702_n.jpg?alt=media&token=e8f02f57-6471-46e9-9b43-277a20b2495c",
+      "price": "2131312",
+      "desc": ""
+    },
+    {
+      "id": "ozati3hz3",
+      "name": "dsadsa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-js-pt14314.appspot.com/o/images%2Fhuong-dan-goi-dau-dung-cach-cham-soc-toc-khoe-dep.jpg?alt=media&token=8622f934-3772-4749-a668-d6c9c21cb722",
+      "price": "12321",
+      "desc": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "bels009a6",
+      "name": "FIFA4",
+      "desc": "ZYZ"
+    },
+    {
+      "id": "a0jdpvh3i",
+      "name": "CSGO",
+      "desc": "M4"
+    },
+    {
+      "id": "voligouzd",
+      "name": "ClownZ Cargo Jeans",
+      "desc": "CSGO"
+    },
+    {
+      "id": "md4t4ttb4",
+      "name": "Huydnph07690",
+      "desc": "CSGO"
+    }
+  ]
+}

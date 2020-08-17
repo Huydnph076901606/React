@@ -1,0 +1,22 @@
+import React from 'react';
+import Header from '../../components/Main/Header'
+import Footer from '../../components/Main/Footer'
+import Navbar from '../../components/Main/NavBar';
+import '../../assets/css/main/style.css'
+import Slider from '../../components/Main/slider';
+export default ({ children }) => {
+
+    console.log('render Main')
+
+    return (
+        <div className="user-page">
+            <Header />
+            <Navbar />
+            <div className="content">
+                {children}
+
+            </div>
+            <Footer />
+        </div>
+    )
+}
